@@ -11,6 +11,8 @@ import java.util.Date;
 @Data
 public class EsTestDto {
 
+    private String id;
+
     private String a;
 
     private String b;
